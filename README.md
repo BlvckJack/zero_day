@@ -1,5 +1,5 @@
 
 
 	=======================
-	     Project Vagrant.
+	    Project Vagrant.
 
